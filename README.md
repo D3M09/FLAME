@@ -11,7 +11,7 @@ COMMANDS 👇👇
 
 😈 pkg install git
 
-😈 pip2 install requests mechanize bs4
+😈 pip2 install requests mechanize bs4 ipaddress
 
 👿 git clone https://github.com/Hunter-alamin/FLAME
 
